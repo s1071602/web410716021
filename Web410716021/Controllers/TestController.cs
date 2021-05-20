@@ -12,7 +12,12 @@ namespace Web410716021.Controllers
         public ActionResult Index()
         {
             return View();
-        }public ActionResult HW1()
+        }
+        public ActionResult HW1()
+        {
+            return View();
+        }
+        public ActionResult HW2()
         {
             return View();
         }

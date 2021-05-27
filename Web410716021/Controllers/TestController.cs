@@ -23,6 +23,7 @@ namespace Web410716021.Controllers
         }
         public ActionResult HW3()
         {
+            ViewBag.test1 = "haa";
             return View();
         }
     }
